@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		60603646245CAC6A005A8138 /* histicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 60603645245CAC6A005A8138 /* histicon.png */; };
-		60C5B95F244CB2ED00BFAFDC /* HistoryFiles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60C5B95E244CB2ED00BFAFDC /* HistoryFiles.swift */; };
 		60F3DCB6244C9BA10009CB1C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F3DCB5244C9BA10009CB1C /* AppDelegate.swift */; };
 		60F3DCB8244C9BA10009CB1C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F3DCB7244C9BA10009CB1C /* SceneDelegate.swift */; };
 		60F3DCBA244C9BA10009CB1C /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F3DCB9244C9BA10009CB1C /* FirstViewController.swift */; };
@@ -41,7 +40,6 @@
 
 /* Begin PBXFileReference section */
 		60603645245CAC6A005A8138 /* histicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = histicon.png; path = ../../../Desktop/histicon.png; sourceTree = "<group>"; };
-		60C5B95E244CB2ED00BFAFDC /* HistoryFiles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryFiles.swift; sourceTree = "<group>"; };
 		60F3DCB2244C9BA10009CB1C /* HistoryApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HistoryApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60F3DCB5244C9BA10009CB1C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		60F3DCB7244C9BA10009CB1C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -116,7 +114,6 @@
 				60F3DCB9244C9BA10009CB1C /* FirstViewController.swift */,
 				60F3DCBB244C9BA10009CB1C /* SecondViewController.swift */,
 				60F3DCBD244C9BA10009CB1C /* Main.storyboard */,
-				60C5B95E244CB2ED00BFAFDC /* HistoryFiles.swift */,
 				60F3DCC3244C9BF30009CB1C /* Assets.xcassets */,
 				60F3DCC5244C9BF30009CB1C /* LaunchScreen.storyboard */,
 				60F3DCC8244C9BF40009CB1C /* Info.plist */,
@@ -284,7 +281,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				60C5B95F244CB2ED00BFAFDC /* HistoryFiles.swift in Sources */,
 				60F3DCBC244C9BA10009CB1C /* SecondViewController.swift in Sources */,
 				60F3DCBA244C9BA10009CB1C /* FirstViewController.swift in Sources */,
 				60F3DCB6244C9BA10009CB1C /* AppDelegate.swift in Sources */,
