@@ -1,6 +1,6 @@
 # IOS History App
 
-An ISO app with integrated apple maps integration.
+An iOS app with integrated apple maps integration.
 
 ## Mapping
 
